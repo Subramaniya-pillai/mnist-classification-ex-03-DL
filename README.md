@@ -127,7 +127,7 @@ print(x_single_prediction)
 ## OUTPUT:
 
 ### Training Loss, Validation Loss Vs Iteration Plot:
-<img src="1.png" width="400" height="400" />/br <img src="2.png" width="400" height="400" />
+<img src="1.png" width="400" height="400" />    |   <img src="2.png" width="400" height="400" />
 ### Classification Report:
 ![](./4.png)
 
